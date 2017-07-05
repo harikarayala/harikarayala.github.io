@@ -1,4 +1,6 @@
-## Welcome to Harika's GitHub.
+## Welcome to Harika's GitHub. 
+
+This is a place for my projects.
 
 You can use the [editor on GitHub](https://github.com/harikarayala/harikarayala.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
